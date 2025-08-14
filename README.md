@@ -4,6 +4,11 @@ A simple web application that demonstrates **fetching and displaying user data**
 This project focuses on **asynchronous data loading**, **basic error handling**, and **dynamic content rendering**.
 
 ---
+## 🚀 Live Site
+
+Check out the live version of this project here:  
+[https://your-username.github.io/your-repository-name/]( https://sh111-a.github.io/js-api-user-fetcher/)
+
 
 ## 🌟 Features
 
