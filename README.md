@@ -34,7 +34,8 @@ Check out the live version of this project here:
 
 ## 📂 Project Structure
 
-js-api-user-fetcher/
+js-api-user-fetcher
+
 ├── index.html # HTML structure
 
 ├── style.css # Custom CSS for styling
