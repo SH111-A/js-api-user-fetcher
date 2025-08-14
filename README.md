@@ -36,7 +36,9 @@ Check out the live version of this project here:
 
 js-api-user-fetcher/
 ├── index.html # HTML structure
+
 ├── style.css # Custom CSS for styling
+
 └── script.js # Fetch API calls & DOM logic
 
 ---
