@@ -1,0 +1,34 @@
+/* Importing Google Fonts for 'Inter' */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f2f5;
+}
+
+.container {
+    max-width: 768px; /* Reduced from 960px for a smaller overall layout */
+}
+
+.user-card {
+    background-color: white;
+    border-radius: 0.75rem; /* Equivalent to Tailwind's rounded-xl */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Equivalent to Tailwind's shadow-md */
+    transition: transform 0.2s ease-in-out;
+    padding: 1rem; /* Reduced padding for smaller cards, equivalent to Tailwind's p-4 */
+}
+
+.user-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Specific font size adjustments for elements within the card */
+.user-card h2 {
+    font-size: 1.125rem; /* Equivalent to Tailwind's text-lg for names */
+    line-height: 1.75rem;
+}
+
+.user-card p {
+    font-size: 0.875rem; /* Equivalent to Tailwind's text-sm for email/address */
+    line-height: 1.25rem;
+}
