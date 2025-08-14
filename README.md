@@ -1,4 +1,5 @@
-js-api-user-fetcher
+"JS API User Fetcher"
+
 A simple web application that demonstrates fetching and displaying user data from a public API using plain HTML, CSS, and JavaScript. This project focuses on asynchronous data loading, basic error handling, and dynamic content rendering.
 
 🌟 Features
